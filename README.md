@@ -6,19 +6,19 @@ Strong background in Data Analytics and Medical Coding with 5+ years of experien
 
 ### 🔗 Connect With Me
 
-* ✉️ **Email:** [![Email](https://shields.io)](mailto:LajpeAAPC@gmail.com)
-* 💼 **LinkedIn:** [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/linnier-ajay-encarnacion-088525342/)
-* 📍 **Location:** [![Location](https://shields.io)](https://google.com)
+* ✉️ **Email:** LajpeAAPC@gmail.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/linnier-ajay-encarnacion-088525342/
+* 📍 **Location:** United States of America
 
 ---
 
 ### 🛠️ Tech Stack & Core Competencies
 
-* 🐍 **Development:** ![Python](https://shields.io)
-* 🛢️ **Databases:** ![SQL](https://shields.io)
-* 📊 **Visualization:** ![Tableau](https://shields.io)
-* 📈 **Strategy:** ![Business Acumen](https://shields.io)
-* 📖 **Narrative:** ![Storytelling](https://shields.io)
+* 🐍 **Development:** Python
+* 🛢️ **Databases:** SQL
+* 📊 **Visualization:** Tableau
+* 📈 **Strategy:** Business Acumen
+* 📖 **Narrative:** Storytelling
 
 ## Featured Projects 💻
 
