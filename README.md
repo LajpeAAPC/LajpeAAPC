@@ -23,6 +23,8 @@ Strong background in Data Analytics and Medical Coding with 5+ years of experien
 ## Featured Projects 💻
 
 ### Stroke Leads Medicare Conditions for June 2026
+<img width="1126" height="534" alt="Image" src="https://github.com/user-attachments/assets/97a73d69-7a57-4074-ba3a-dac4d070595d" />
+
 https://github.com/LajpeAAPC/Stroke-Leads-Medicare-Conditions-for-June-2026/blob/main/README.md
 
 
