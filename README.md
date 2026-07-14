@@ -1,16 +1,25 @@
-## Hi there 👋
+# Linnier Ajay Encarnacion - Portfolio
 
-<!--
-**LajpeAAPC/LajpeAAPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Strong background in Data Analytics and Medical Coding with 5+ years of experience working with complex medical data in the Healthcare Industry, and a Google Advanced Data Analytics Professional Certificate focused on Python, SQL, & Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Email](https://shields.io)](mailto:LajpeAAPC@gmail.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/linnier-ajay-encarnacion-088525342/)
+[![Location](https://shields.io)](https://google.com)
+
+## My Skills 🧠
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![Tableau](https://shields.io)
+![Business Acumen](https://shields.io)
+![Storytelling](https://shields.io)
+
+## Featured Projects 💻
+
+### [Stroke Leads Medicare Conditions for June 2026]
+
+
+
+
+
