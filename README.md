@@ -27,6 +27,12 @@ Strong background in Data Analytics and Medical Coding with 5+ years of experien
 
 https://github.com/LajpeAAPC/Stroke-Leads-Medicare-Conditions-for-June-2026/blob/main/README.md
 
+### Annual CMS Onboarding Trends: January Medical Waste Audit Optimization
+<img width="567" height="353" alt="Image" src="https://github.com/user-attachments/assets/2ded0a72-fdd5-4305-9d20-4c075d5107c2" />
+
+https://github.com/LajpeAAPC/Annual-CMS-Onboarding-Trends-January-Medical-Waste-Audit-Optimization/blob/main/README.md
+
+
 
 
 
