@@ -5,7 +5,7 @@
 Strong background in Data Analytics and Medical Coding with 5+ years of experience working with complex medical data in the Healthcare Industry, and a Google Advanced Data Analytics Professional Certificate focused on Python, SQL, & Tableau.
 
 ### Featured Projects 💻
-### Medicare Part B: KPI Drug Pharmaceutical Cost Ingestion & Analytics Pipeline
+### Medicare KPI Drug Cost & Pharmaceutical Analytics Pipeline
 <img width="996" height="470" alt="Image" src="https://github.com/user-attachments/assets/0ddd997e-aa2e-4d2b-b11d-e0f39cb462c6" />
 https://github.com/LajpeAAPC/Medicare-Part-B-KPI-Drug-Pharmaceutical-Cost-Ingestion-Analytics-Pipeline/blob/main/README.md
 
