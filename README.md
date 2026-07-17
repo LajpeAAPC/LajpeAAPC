@@ -6,7 +6,7 @@ Strong background in Data Analytics and Medical Coding with 5+ years of experien
 
 ### Featured Projects 💻
 ### Medicare KPI Drug Cost & Pharmaceutical Analytics Pipeline
-<img width="996" height="470" alt="Image" src="https://github.com/user-attachments/assets/0ddd997e-aa2e-4d2b-b11d-e0f39cb462c6" />
+<img width="1005" height="483" alt="Image" src="https://github.com/user-attachments/assets/0b938c36-cf0c-4665-9f4b-ad49476249a3" />
 https://github.com/LajpeAAPC/Medicare-Part-B-KPI-Drug-Pharmaceutical-Cost-Ingestion-Analytics-Pipeline/blob/main/README.md
 
 ### Annual CMS Onboarding Trends: January Medical Waste Audit Optimization
